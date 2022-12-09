@@ -26,18 +26,18 @@ Strings werden mit zwei Gänsefüßchen zwischen denen der Wert des Strings steh
 int alter = 18;
 ```
 Integer sind ganze Zahlen die eine Größe von -2147483648 bis 2147483647 haben.
-
+##Float
 ```java
 float pi = 3.14159265359;
 ```
 
 Floats werden im gegensatz zu den kommazahlen im normalen Leben mit einem Punkt stadt Komma deklariert. Sie haben eine Größe von +/-1,4E-45 bis +/-3,4E+38.
-
+##Character
 ```java
 char buchstabe = 'A';
 ```
 Character sind einzelne Zeiche, sie der Wert wird hierbei zwichen Zwei Hochkommers geschrieben und nicht wie beim String zwischen zwei Gänsefüßchen.
-
+##Boolean
 ```java
 boolean isDay = true;
 ```
