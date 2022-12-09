@@ -27,6 +27,7 @@ int alter = 18;
 ```
 Integer sind ganze Zahlen die eine Größe von -2147483648 bis 2147483647 haben.
 ##Float
+
 ```java
 float pi = 3.14159265359;
 ```
